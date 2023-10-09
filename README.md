@@ -1,2 +1,3 @@
-# PYthon
-Repo for Hacktoberfest 2023
+## Python
+
+This Repository is for Hacktoberfest 2023 Contributions.
